@@ -101,7 +101,7 @@ The notebook concludes with:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |-----------|---------|
@@ -114,5 +114,4 @@ The notebook concludes with:
 
 ---
 
-## 📂 Repository Structure
 
